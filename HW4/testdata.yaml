@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru/
+#driver_path: ./chromedriver.exe
+browser: chrome
+#browser: firefox
+sleep_time: 3
+login: "YuliS"
+password: "5f790dad08"

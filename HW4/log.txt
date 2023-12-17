@@ -1,0 +1,21 @@
+2023-12-17 15:45:08 INFO ====== WebDriver manager ======
+2023-12-17 15:45:10 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 15:45:10 INFO Get LATEST chromedriver version for google-chrome
+2023-12-17 15:45:10 INFO Driver [C:\Users\omen1\.wdm\drivers\chromedriver\win64\120.0.6099.71\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-17 15:45:11 INFO Test1 starting
+2023-12-17 15:45:14 INFO Test1 finished
+2023-12-17 15:45:14 INFO Test2 starting
+2023-12-17 15:45:16 INFO Test2 finished
+2023-12-17 15:45:16 INFO Test3 starting
+2023-12-17 15:45:20 INFO Test3 finished
+2023-12-17 15:45:20 INFO Test4 starting
+2023-12-17 15:45:22 INFO Test4 finished
+2023-12-17 15:45:22 INFO Test5 starting
+2023-12-17 15:45:27 INFO Test6 API starting
+2023-12-17 15:45:29 INFO Test6 API starting
+2023-12-17 15:45:29 ERROR API request failed
+Traceback (most recent call last):
+  File "C:\Users\omen1\PycharmProjects\pythonProject\HW4\test_2.py", line 20, in test_check_post_title
+    assert data["title"] in post_titles
+AssertionError: assert 'New_title' in ['Test#', 'Test#', 'Test#', 'Test#']
+2023-12-17 15:45:29 ERROR API request failed
